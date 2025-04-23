@@ -1,0 +1,25 @@
+{
+  "name": "vitedemo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^5.6.0",
+    "element-plus": "^2.9.8",
+    "terser": "^5.39.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^6.1.0",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "sass": "^1.86.3",
+    "sass-loader": "^16.0.5",
+    "vite": "^4.2.0"
+  }
+}
